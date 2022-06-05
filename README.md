@@ -12,4 +12,6 @@
 - This model can be checked with any image in val folder or with any bone implantation image belonging to these four classes.
 
 
-Dataset Used: https://www.kaggle.com/datasets/yasserhessein/shoulder-implant-xray
+**Dataset Used:** https://www.kaggle.com/datasets/yasserhessein/shoulder-implant-xray
+
+This total model training was done in **Google Cloud**. And the model validation was done on **local system** equipped with 8GB RAM and Intel Core i5 processor.
